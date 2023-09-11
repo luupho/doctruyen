@@ -1,90 +1,85 @@
 .container {
-    width: 700px;
-    background-color: white;
-    display: flex;
-    flex-wrap: wrap;
+  width: 700px;
+  background-color: white;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+
+  .card {
+    margin: 10px 0;
+    flex-grow: 1;
+    width: 25%;
     align-items: center;
     justify-content: center;
+  }
+  .card .card-container {
+    width: 160px;
+    height: 310px;
+    margin: auto;
 
-    .card {
-        margin: 10px 0;
-        flex-grow: 1;
-        width: 25%;
-        align-items: center;
-        justify-content: center;
-        .card-container {
-            width: 160px;
-            height: 310px;
-            margin: auto;
-        
-            .img-story {
-                background-image: url('../../data/thuong-nguyen-do.jpg');
-                height: 200px;
-                width: 100%;
-                position: relative;
-        
-                .view-cmt-like {
-                    height: 30px;
-                    width: 100%;
-                    background-color: #28271b;
-                    position: absolute;
-                    bottom: 0px;
-                    opacity: 0.7;
-                    display: flex;
-                    
-                   .icon {
-                    width: 33%;
-                    display: flex;
-                    justify-content: center;
-                    .text-icon{
-                        
-                        text-align: center;
-                        padding-top: 5px;
-                        color: white;
-                        text-align: center;
-                        font-size: 12px;
-                        
-                    }
-                    i {
-                        font-size: 30px;
-                        color: white;
-                    }
-                   }
-                }
-            }
-        
-            .tilte-chapter {
-                width: 100%;
-                background-color: white;
-                height: 110px;
-                
-                .title {
-                    font-size: 18px;
-                    font-weight: 400;
-                    text-align: center;
-                    padding-top: 5px;
-                }
-                .chapter {
-                    padding-top: 5px;
-                    .chapter-content{
-                        display: flex;
-                        gap: 15px;
-                        padding-top: 5px;
-                        text-align: center;
-        
-                        .number-chapter {
-                            font-size: 13px;
-                            font-weight: 450;
-                        }
-        
-                        .time {
-                            font-size: 12px;
-                            font-style: italic;
-                            opacity: 0.7;
-                        }
-                    }
-                }
-            }
+    .tilte-chapter {
+      width: 100%;
+      background-color: white;
+      height: 110px;
+    }
+    .tilte-chapter .title {
+      font-size: 18px;
+      font-weight: 400;
+      text-align: center;
+      padding-top: 5px;
+    }
+    .tilte-chapter .chapter {
+      padding-top: 5px;
+      .chapter-content {
+        display: flex;
+        gap: 15px;
+        padding-top: 5px;
+        text-align: center;
+
+        .number-chapter {
+          font-size: 13px;
+          font-weight: 450;
         }
+
+        .time {
+          font-size: 12px;
+          font-style: italic;
+          opacity: 0.7;
+        }
+      }
     }
   }
+
+  .card .card-container .img-story {
+    // background-image: url('../../data/thuong-nguyen-do.jpg');
+    height: 200px;
+    width: 100%;
+    position: relative;
+    .view-cmt-like {
+      height: 30px;
+      width: 100%;
+      background-color: #28271b;
+      position: absolute;
+      bottom: 0px;
+      opacity: 0.7;
+      display: flex;
+    }
+    .view-cmt-like .icon {
+      width: 33%;
+      display: flex;
+      justify-content: center;
+      .text-icon {
+        text-align: center;
+        padding-top: 5px;
+        color: white;
+        text-align: center;
+        font-size: 12px;
+      }
+      i {
+        font-size: 30px;
+        color: white;
+      }
+    }
+  }
+}

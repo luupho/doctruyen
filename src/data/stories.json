@@ -1,66 +1,83 @@
 [
     {
-        "title": "Truyện 1",
+        "title": "Shaman - Pháp Sư",
         "chapterNumber": 300,
         "reads": 14500,
         "comment": 34,
-        "like": 200
+        "like": 200,
+        "avatar":"https://st.nettruyenus.com/data/comics/255/shaman-phap-su.jpg"
     },
     {
-        "title": "Truyện 2",
+        "title": "Lang Thành",
         "chapterNumber": 200,
         "reads": 14500,
         "comment": 56,
-        "like": 200
+        "like": 200,
+        "avatar":"https://st.nettruyenus.com/data/comics/248/lang-thanh.jpg"
+
     },
     {
-        "title": "Truyện 3",
+        "title": "K-On Shuffle",
         "chapterNumber": 310,
         "reads": 14500,
         "comment": 98,
-        "like": 200
+        "like": 200,
+        "avatar":"https://st.nettruyenus.com/data/comics/77/k-on-shuffle.jpg"
+
     },
     {
-        "title": "Truyện 4",
+        "title": "Y Võ Chí Tôn",
         "chapterNumber": 360,
         "reads": 14500,
         "comment": 55,
-        "like": 200
+        "like": 200,
+        "avatar":"https://st.nettruyenus.com/data/comics/191/y-vo-chi-ton.jpg"
+
     },
     {
         "title": "Truyện 5",
         "chapterNumber": 40,
         "reads": 14500,
         "comment": 200,
-        "like": 200
+        "like": 200,
+        "avatar":"https://st.nettruyenus.com/data/comics/255/shaman-phap-su.jpg"
+
     },
     {
         "title": "Truyện 6",
         "chapterNumber": 30,
         "reads": 14500,
         "comment": 98,
-        "like": 200
+        "like": 200,
+        "avatar":"https://st.nettruyenus.com/data/comics/255/shaman-phap-su.jpg"
+
     },
     {
         "title": "Truyện 7",
         "chapterNumber": 345,
         "reads": 14500,
         "comment": 78,
-        "like": 200
+        "like": 200,
+        "avatar":"https://st.nettruyenus.com/data/comics/255/shaman-phap-su.jpg"
+
     },
     {
         "title": "Truyện 8",
         "chapterNumber": 311,
         "reads": 14500,
         "comment": 45,
-        "like": 200
+        "like": 200,
+        "avatar":"https://st.nettruyenus.com/data/comics/255/shaman-phap-su.jpg"
+
     },
     {
         "title": "Truyện 9",
         "chapterNumber": 544,
         "reads": 14500,
         "comment": 24,
-        "like": 200
+        "like": 200,
+        "avatar":"https://st.nettruyenus.com/data/comics/255/shaman-phap-su.jpg"
+
     }
     ,
     {
@@ -68,20 +85,26 @@
         "chapterNumber": 900,
         "reads": 14500,
         "comment": 24,
-        "like": 200
+        "like": 200,
+        "avatar":"https://st.nettruyenus.com/data/comics/255/shaman-phap-su.jpg"
+
     },
     {
         "title": "Truyện 11",
         "chapterNumber": 666,
         "reads": 14500,
         "comment": 24,
-        "like": 200
+        "like": 200,
+        "avatar":"https://st.nettruyenus.com/data/comics/255/shaman-phap-su.jpg"
+
     },
     {
         "title": "Truyện 12",
         "chapterNumber": 544,
         "reads": 14500,
         "comment": 24,
-        "like": 200
+        "like": 200,
+        "avatar":"https://st.nettruyenus.com/data/comics/255/shaman-phap-su.jpg"
+
     }
 ]
