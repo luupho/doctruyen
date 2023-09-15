@@ -1,5 +1,5 @@
 import React from "react";
-// import './MyComponent.scss';
+import './MyComponent.scss';
 
 class MyComponent extends React.Component {
   render() {
@@ -50,9 +50,6 @@ class MyComponent extends React.Component {
                 <div className="time">30 phút trước</div>
               </div>
             </div>
-            <h3>
-              <i className="fas fa-heart"></i>
-            </h3>
           </div>
         </div>
       </div>

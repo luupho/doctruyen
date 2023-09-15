@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "title": "Shaman - Pháp Sư",
         "chapterNumber": 300,
         "reads": 14500,
@@ -8,6 +9,7 @@
         "avatar":"https://st.nettruyenus.com/data/comics/255/shaman-phap-su.jpg"
     },
     {
+        "id": 2,
         "title": "Lang Thành",
         "chapterNumber": 200,
         "reads": 14500,
@@ -17,6 +19,7 @@
 
     },
     {
+        "id": 3,
         "title": "K-On Shuffle",
         "chapterNumber": 310,
         "reads": 14500,
@@ -26,6 +29,7 @@
 
     },
     {
+        "id": 4,
         "title": "Y Võ Chí Tôn",
         "chapterNumber": 360,
         "reads": 14500,
@@ -35,6 +39,7 @@
 
     },
     {
+        "id": 5,
         "title": "Truyện 5",
         "chapterNumber": 40,
         "reads": 14500,
@@ -44,6 +49,7 @@
 
     },
     {
+        "id": 6,
         "title": "Truyện 6",
         "chapterNumber": 30,
         "reads": 14500,
@@ -53,6 +59,7 @@
 
     },
     {
+        "id": 7,
         "title": "Truyện 7",
         "chapterNumber": 345,
         "reads": 14500,
@@ -62,6 +69,7 @@
 
     },
     {
+        "id": 8,
         "title": "Truyện 8",
         "chapterNumber": 311,
         "reads": 14500,
@@ -71,6 +79,7 @@
 
     },
     {
+        "id": 9,
         "title": "Truyện 9",
         "chapterNumber": 544,
         "reads": 14500,
@@ -81,6 +90,7 @@
     }
     ,
     {
+        "id": 10,
         "title": "Truyện 10",
         "chapterNumber": 900,
         "reads": 14500,
@@ -90,6 +100,7 @@
 
     },
     {
+        "id": 11,
         "title": "Truyện 11",
         "chapterNumber": 666,
         "reads": 14500,
@@ -99,6 +110,7 @@
 
     },
     {
+        "id": 12,
         "title": "Truyện 12",
         "chapterNumber": 544,
         "reads": 14500,
